@@ -1,3 +1,20 @@
+# Gericht Modern Restaurant Website
+
+This project was generated with [Reactjs](https://reactjs.org/)
+
+## Deployed App
+
+http://modern-restaurant.s3-website-us-east-1.amazonaws.com/
+
+## Contact
+
+Emily LaBelle - [Linkdin](https://www.linkedin.com/in/emilylabelledev/) - emilylabelle8@gmail.com
+
+
+## Acknowledgments
+[Build and Deploy 4 Modern React Apps](https://www.youtube.com/watch?v=F627pKNUCVQ)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
